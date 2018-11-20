@@ -3,7 +3,7 @@
 A modern remake of the classic Galaga game.
 
 Our goal is to impliment the following:
-\n-Saved high score
+-Saved high score
 -Progress to different levels
 -Movement of the aliens and spaceship
 -Working lasers
