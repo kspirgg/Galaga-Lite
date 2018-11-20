@@ -1,5 +1,6 @@
 # Galaga-Lite
 A modern remake of the classic arcade game.<br/>
+
 Goal to impliment:<br/>
 -Scoreboard of high scores<br/>
 -Progression to different levels<br/>
